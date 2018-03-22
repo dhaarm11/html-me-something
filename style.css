@@ -1,0 +1,45 @@
+body {
+    color: white;
+    background-color: green;
+  }
+
+h1 {
+    display: block;
+    color:whitesmoke;
+    font-size: 3em;
+    text-align: center;
+    font-weight: bold;
+}
+
+h3 {
+    display: block;
+    color:whitesmoke;
+    font-size: 1em;
+    text-align: center;
+    font-weight: bold;
+}
+
+img {        
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+  }
+
+nav ul {
+    list-style: none;
+    display: inline;
+    padding-left: 0;
+    margin-left: 0;  
+}
+
+div {
+    border: 1px solid black;
+    padding: 25px 25px 25px;
+    background-color: darkgreen;
+}
+
+.about {
+    font-size: 2em;
+    background-color:rgb(78, 100, 0);
+}
+
